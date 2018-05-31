@@ -1,0 +1,10 @@
+D:\Net\12-open\openLoc\openLoc\bin\Debug\openLoc.exe
+D:\Net\12-open\openLoc\openLoc\bin\Debug\openLoc.pdb
+D:\Net\12-open\openLoc\openLoc\obj\Debug\openLoc.Properties.Resources.resources
+D:\Net\12-open\openLoc\openLoc\obj\Debug\openLoc.csproj.GenerateResource.Cache
+D:\Net\12-open\openLoc\openLoc\obj\Debug\openLoc.exe
+D:\Net\12-open\openLoc\openLoc\obj\Debug\openLoc.pdb
+D:\Net\12-open\openLoc\openLoc\obj\Debug\openLoc.frmMain.resources
+D:\Net\12-open\openLoc\openLoc\bin\Debug\config.xml
+D:\Net\12-open\openLoc\openLoc\bin\Debug\openLoc.exe.config
+D:\Net\12-open\openLoc\openLoc\obj\Debug\openLoc.csprojResolveAssemblyReference.cache
